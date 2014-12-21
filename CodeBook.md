@@ -20,7 +20,7 @@ Later the data is gouped by "Activity" and then "Subject" and the mean of every 
 #Variables
 
   * Activity = Which activity was being performed by the "Subject". 
-(WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING
-or LAYING)
+(WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING or LAYING)
   * Subject = Which anonymus subject was performing the Activity (Subjects range from id 1 to 30)
-  The rest of the variables represent the means of the measurements obtained by the different elemets of the 
+  The rest of the variables represent the means of the measurements obtained from the embedded accelerometer and gyroscope of a Samsung Galaxy SII grouped by Activity and Subject.
+
